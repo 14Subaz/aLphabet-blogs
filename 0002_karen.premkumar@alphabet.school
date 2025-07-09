@@ -1,0 +1,77 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif !important;
+}
+</style>
+<article style="max-width: 800px;margin: auto;background: #fff;padding: 40px;border-radius: 10px;font-family: 'Poppins', sans-serif;color: #333;line-height: 1.7;text-align: justify">
+
+
+ 
+  <p>At aLphabet, diversity isn’t just a theme for a day, it’s simply how we live and learn together. As an IB World School, we don’t just speak about international-mindedness, we see it in our classrooms, feel it in our corridors and celebrate it every single day.</p>
+
+  <p>From lessons to festivals, every moment is painted into a colourful canvas to honour different cultures, voices and ways of life. Here’s a little glimpse into what that looks like at aLphabet.</p>
+
+  <h2 style="font-size: 1.75em;color: #1f3a93">aLpha Fete Carnival</h2>
+  <p>Our beloved aLpha Fete Carnival 2024 was a spectacular celebration of community and culture. Held last December, it transformed our campus into a vibrant carnival bursting with colour, laughter and connection.</p>
+  <p>Students, parents and teachers came together to enjoy live open mics, band performances, sports matches, tattoo art, face painting, giant board games and creative workshops like Clay Art and Tie &amp; Dye. Local vendors added to the festive buzz with stalls full of crafts, curios and delicious bites, while the aLpha Merch Store and raffle contest kept the excitement going strong.</p>
+  <p>aLpha Fete was a joyful reminder, rather than just a school event where we gathered as one family, celebrating life and belonging.</p>
+
+  <h2 style="font-size: 1.75em;color: #1f3a93">Learning Beyond Borders: Where the World Becomes the Classroom</h2>
+  <p>At aLphabet, our students don’t just read about the world; they step out and experience it for themselves. Our educational trips transform the real world into classrooms where history, culture and human connections come alive.</p>
+  <p>One of aLphabet’s unforgettable adventures was our student trip to Egypt in 2022. Imagine standing before the timeless pyramids of Giza, walking the grand halls of the Egyptian Museum in Cairo, and then coming back home to connect all of that wonder to IB ideas like identity and systems. It was indeed a phenomenal experience!</p>
+  <p>Ancient cities to local heritage towns or natural ecosystems, the adventures made our students come back with stories, questions and bigger dreams fueled with curiosity.</p>
+
+  <h2 style="font-size: 1.75em;color: #1f3a93">Coffee Mornings: Parents as Partners</h2>
+  <p>Families are a child's first storytellers, which is why we love welcoming them into our classrooms. Our ‘Coffee Mornings’ are one of our favourite ways to do that.</p>
+  <p>Parents get to step right into our PYP spaces and see how their children learn through transdisciplinary units that connect subjects and cultures from around the world. Over warm cups of coffee, parents get to witness the true magic of IB learning honouring.</p>
+
+  <h2 style="font-size: 1.75em;color: #1f3a93">Events That Build International Minds</h2>
+  <p>On ‘Language Day’, students celebrated linguistic diversity, honoring global languages and the unifying power of communication. During ‘Diversity Week’, our learners explored the beauty of differences, fostering mutual respect and an inclusive mindset.</p>
+  <p>Our Halloween celebrations offered a playful yet meaningful opportunity to explore global customs, symbols and creativity in a culturally respectful way. aisMUN on the other hand, let our young delegates step into global roles, tackling real-world issues with empathy, insight and diplomacy.</p>
+  <p>Each of these was way past mere events; they were intentional steps in shaping internationally minded citizens. We take pride in nurturing such global learners who care, connect and act with empathy through the multitude of rich avenues that IB learning supports. Because at aLphabet internationaL schooL, developing international mindedness isn’t just a goal, it’s a way of life!</p>
+
+  <h2 style="font-size: 1.75em;color: #1f3a93">Living the IB Values, Every Day</h2>
+  <p>Everything we do at aLphabet is guided by the IB Learner Profile, which shapes how we learn and who we become.</p>
+
+  <ul style="padding-left: 20px;margin-bottom: 1.5em">
+    <li style="margin-bottom: 0.8em"><strong>Being open to new ideas:</strong> We listen and learn from different viewpoints.</li>
+    <li style="margin-bottom: 0.8em"><strong>Caring for each other:</strong> We look out for one another with empathy and kindness.</li>
+    <li style="margin-bottom: 0.8em"><strong>Communicating with heart:</strong> We share our thoughts clearly and listen with respect.</li>
+    <li style="margin-bottom: 0.8em"><strong>Reflecting and growing:</strong> We pause to learn from every story, celebration and connection.</li>
+  </ul>
+
+  <p>For aLphabet, the IB isn’t just a framework, it’s part of every question we ask, every idea we share and every brave step our students take to make learning their own. Because in the end, it’s not just about bright minds, it’s about kind hearts, curious spirits and the courage to make a difference.</p>
+
+  <h2 style="font-size: 1.75em;color: #1f3a93">Glimpses of Diversity in Action</h2>
+
+  <div style="flex-wrap: wrap;gap: 10px;margin: 20px 0">
+    <!-- Replace img1.jpg to img24.jpg with your actual image URLs -->
+    <img src="https://d1fbuevzm5rgyw.cloudfront.net/wordpress/wp-content/uploads/2025/07/09083616/Language-day-2-scaled.jpg" alt="Gallery Image 1" style="width: calc(33.33% - 10px);height: auto;border-radius: 10px" />
+    <img src="https://d1fbuevzm5rgyw.cloudfront.net/wordpress/wp-content/uploads/2025/07/09083556/aLpha-fete-3-scaled.jpg" alt="Gallery Image 2" style="width: calc(33.33% - 10px)" />
+    <img src="https://d1fbuevzm5rgyw.cloudfront.net/wordpress/wp-content/uploads/2025/07/09083636/Language-day-4-scaled.jpg" alt="Gallery Image 3" style="width: calc(33.33% - 10px)" />
+    <img src="https://d1fbuevzm5rgyw.cloudfront.net/wordpress/wp-content/uploads/2025/07/09083650/aismun-1-scaled.jpg" alt="Gallery Image 4" style="width: calc(33.33% - 10px)" />
+    <img src="https://d1fbuevzm5rgyw.cloudfront.net/wordpress/wp-content/uploads/2025/07/09083706/aismun-2-scaled.jpg" alt="Gallery Image 5" style="width: calc(33.33% - 10px)" />
+    <img src="https://d1fbuevzm5rgyw.cloudfront.net/wordpress/wp-content/uploads/2025/07/09083724/aLpha-fete-2-scaled.jpg" alt="Gallery Image 6" style="width: calc(33.33% - 10px)" />
+    <img src="https://d1fbuevzm5rgyw.cloudfront.net/wordpress/wp-content/uploads/2025/07/09083743/aLpha-fete-4-scaled.jpg" alt="Gallery Image 7" style="width: calc(33.33% - 10px)" />
+    <img src="https://d1fbuevzm5rgyw.cloudfront.net/wordpress/wp-content/uploads/2025/07/09083800/Coffee-morning-20-scaled.jpg" alt="Gallery Image 8" style="width: calc(33.33% - 10px)" />
+    <img src="https://d1fbuevzm5rgyw.cloudfront.net/wordpress/wp-content/uploads/2025/07/09083817/Coffee-morning-35-scaled.jpg" alt="Gallery Image 9" style="width: calc(33.33% - 10px)" />
+    <img src="https://d1fbuevzm5rgyw.cloudfront.net/wordpress/wp-content/uploads/2025/07/09083834/Language-day-3-scaled.jpg" alt="Gallery Image 10" style="width: calc(33.33% - 10px)" />
+    <img src="https://d1fbuevzm5rgyw.cloudfront.net/wordpress/wp-content/uploads/2025/07/09083843/1.Thumbnail-scaled.jpg" alt="Gallery Image 11" style="width: calc(33.33% - 10px)" />
+    <img src="https://d1fbuevzm5rgyw.cloudfront.net/wordpress/wp-content/uploads/2025/07/09083858/aismun-3-scaled.jpg" alt="Gallery Image 12" style="width: calc(33.33% - 10px)" />
+    <img src="https://d1fbuevzm5rgyw.cloudfront.net/wordpress/wp-content/uploads/2025/07/09083911/Coffee-morning-11-scaled.jpg" alt="Gallery Image 13" style="width: calc(33.33% - 10px)" />
+    <img src="https://d1fbuevzm5rgyw.cloudfront.net/wordpress/wp-content/uploads/2025/07/09083930/Educational-trips-1.jpeg" alt="Gallery Image 14" style="width: calc(33.33% - 10px)" />
+  
+    <img src="https://d1fbuevzm5rgyw.cloudfront.net/wordpress/wp-content/uploads/2025/07/09083956/Educational-trips-4.jpeg" alt="Gallery Image 16" style="width: calc(33.33% - 10px)" />
+    
+  </div>
+
+  <p><strong>Here’s to growing together, asking better questions and celebrating every story that makes us who we are — one colourful day at a time!</strong></p>
+
+  <footer style="margin-top: 3em;font-size: 0.9em;color: #666;background: #f0f0f0;padding: 15px;border-radius: 8px;line-height: 1.5">
+    #IBLearnerProfile #TransdisciplinaryLearning #InternationalMindedness #CelebratingDiversity #GlobalCitizenship<br>
+    #InclusiveEducation #IBCommunity #aLphabet
+  </footer>
+
+</article>
